@@ -27,7 +27,7 @@
                     <execution>
                         <id>attach-sources</id>
                         <goals>
-                            <goal>jar</goal>
+                            <goal>war</goal>
                         </goals>
                     </execution>
                 </executions>
