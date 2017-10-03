@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>multi1</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>Multi 1</name>
 
     <licenses>
@@ -27,7 +27,7 @@
                     <execution>
                         <id>attach-sources</id>
                         <goals>
-                            <goal>war</goal>
+                            <goal>jar</goal>
                         </goals>
                     </execution>
                 </executions>
