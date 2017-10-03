@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>multi1</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Multi 1</name>
 
     <licenses>
